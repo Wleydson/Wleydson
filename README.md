@@ -1,10 +1,10 @@
-# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+# Hello World
 
 ### Software Developer&nbsp; :heart:
 <p>
   <em>
     Hello guys, I am a <b>Software Developer</b> fascinated by Technology and with a great passion for <b>Java</b> and <b>Spring</b>, who sometimes ventures on the front end with 
-    React JS and Angular technologies <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">.
+    React JS and Angular technologies.
   </em>  
 </p>
 
